@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surojkasai
-- 👀 I’m interested in ...programming and techs.
-- 🌱 I’m currently learning ...Programming.
+- 👀 I’m interested in coding,programming,graphic designing,video editing techs.
+- 🌱 I’m currently learning ...Coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...surojkasai@gmail.com.
 
