@@ -1,5 +1,7 @@
 # 💫 About Me:
+##Hi!,I am Suroj and flutter dev from Nepal
 🧠 I’m currently working on a movie recommendation system<br>🤝 I’m looking to collaborate on Flutter apps and REST API projects<br>🛠️ I’m looking for help with building efficient backend systems<br>🌱 I’m currently learning distributed systems<br>💬 Ask me about Flutter, .NET Web APIs, Firebase, and full-stack app development<br>⚡ Fun fact: I love turning my ideas into real, working projects
+![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlsMmsxdXp4NjVmYWNiOHhiMmIwaGJkYXE3M252eDI4djJ6Z241MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## 🌐 Socials:
